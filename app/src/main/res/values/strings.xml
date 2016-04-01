@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FingerPrintPassStore</string>
+    <string name="tap_to_login">Authentication is needed to access your password. Tap to login</string>
+    <string name="fingerprint_dialog_info">Confirm fingerprint to continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="save_btn">save</string>
+</resources>
